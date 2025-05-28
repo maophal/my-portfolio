@@ -3,6 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import SkyAngkor from "@/public/my-project/skyangkor.png"
 import AAndP from "@/public/my-project/a-and-p.png";
 import DGT   from "@/public/my-project/dgt.png"
+import AirTimes from "@/public/my-project/airtimes.png";
 export const links = [
   {
     name: "Home",
@@ -87,6 +88,90 @@ export const projectsData = [
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: DGT,
   },
+    {
+    title: "Paais Travel Exporer",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+  {
+    title: "Airtimes ",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: AirTimes,
+  },
+  {
+    title: "Panacea Coin",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "Hancook Food",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "គ្រូបង្រៀនឌីជីថល",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "គ្រូបង្រៀនឌីជីថល",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "គ្រូបង្រៀនឌីជីថល",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "Slot game",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "Uk24 trading platform",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "Digi POS Cloud system",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "K24h",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
+    {
+    title: "Batong Hotel",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: DGT,
+  },
 ] as const;
 
 export const skillsData = [
@@ -97,16 +182,19 @@ export const skillsData = [
   "React",
   "Next.js",
   "Node.js",
+  "Nestjs",
+  "Tailwind CSS",
+  "PHP",
+  "Laravel",
+  "Express.js",
+  "Redux",
   "Git",
-  "Tailwind",
   "Prisma",
   "MongoDB",
-  "Redux",
   "GraphQL",
   "Laravel",
   "Express",
   "PostgreSQL",
   "Bootstrap",
   "Nestjs",
-  "Framer Motion",
 ] as const;
