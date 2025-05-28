@@ -4,6 +4,7 @@ import SkyAngkor from "@/public/my-project/skyangkor.png"
 import AAndP from "@/public/my-project/a-and-p.png";
 import DGT   from "@/public/my-project/dgt.png"
 import AirTimes from "@/public/my-project/airtimes.png";
+import PAAIS from "@/public/my-project/paais.png";
 export const links = [
   {
     name: "Home",
@@ -93,7 +94,7 @@ export const projectsData = [
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: PAAIS,
   },
   {
     title: "Airtimes ",
