@@ -13,6 +13,8 @@ import DIGIPOS from "@/public/my-project/digi-pos-cloud.png";
 import YUANTA from "@/public/my-project/yuanta.png";
 import BaitongHotel from "@/public/my-project/baitonghotel.png";
 import DANBUILD from "@/public/my-project/danbuild.png";
+import UK24trading from "@/public/my-project/uk24.jpg";
+import SlotGame from "@/public/my-project/slot_game.jpg";
 export const links = [
   {
     name: "Home",
@@ -151,14 +153,14 @@ export const projectsData = [
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: SlotGame,
   },
     {
     title: "Uk24 trading platform",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: UK24trading,
   },
     {
     title: "Digi POS Cloud Saas solution",
