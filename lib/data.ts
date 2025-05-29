@@ -103,84 +103,84 @@ export const projectsData = [
     title: "Paais Travel Exporer",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Vuejs", "Codeigniter", "Mysql", "Radis", "HTML", "Bootstrap4"],
     imageUrl: PAAIS,
   },
   {
     title: "Airtimes ",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Vuejs", "Laravel 7", "Mysql", "Radis", "HTML", "Bootstrap5"],
     imageUrl: AirTimes,
   },
   {
     title: "Panacea Coin",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Nodejs", "Reactjs", "Mysql", "Tailwind"],
     imageUrl: PANACEACOIN,
   },
     {
     title: "Hancook Food",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Laravel 9", "Next.js", "Mysql", "Tailwind","Nextjs"],
     imageUrl: HANCOOKFOOD,
   },
     {
     title: "K24h Lottery",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Reactjs", "Laravel 9", "Mysql", "Tailwind"],
     imageUrl: k24Hlottery,
   },
     {
     title: "K24h Lottery System",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+     tags: ["Reactjs", "Laravel 10", "PostgreSQL", "Tailwind","Prisma","Socket.io","Redis Cache"],
     imageUrl: k24HlotterySystem,
   },
     {
     title: "Dan's Build",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["React", "Next.js", "SQL", "Tailwind"],
     imageUrl: DANBUILD,
   },
     {
     title: "Slot Machine Provider System",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Nodejs", "Next.js", "Mysql", "Tailwind", "Prisma","Canvas","createjs"],
     imageUrl: SlotGame,
   },
     {
     title: "Uk24 trading platform",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["React", "Mysql", "Bootstrap5", "Framer","Laravel 8"],
     imageUrl: UK24trading,
   },
     {
     title: "Digi POS Cloud Saas solution",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Reactjs", "Nodejs", "Mysql", "Tailwind","Radis Cache"],
     imageUrl: DIGIPOS,
   },
   {
     title: "Yuanta Securities (Cambodia) Plc.",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["HTML", "CSS", "Mysql", "Bootstrap4", "PHP"],
     imageUrl: YUANTA,
   },
   {
-    title: "Batong Hotel",
+    title: "Batong Hotel & Resort",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Laravel 10", "HTML", "CSS", "Tailwind", "Bootstrap5"],
     imageUrl: BaitongHotel,
   },
 ] as const;
