@@ -43,38 +43,30 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
+    {
+    title: "Senior Full-Stack Developer",
+    location: "Melose Co.,LTD",
+    description:
+      "i working verify hard at Mylekha. and learn a lot from that warming work place.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2022 - present",
+  },
   {
+    title: "Middle Senior Full-Stack Developer",
+    location: "Mylekha Co.,LTD",
+    description:
+      "i working verify hard at Mylekha. and learn a lot from that warming work place.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2020 - 2022",
+  },
+    {
     title: "Junior Web Developer",
     location: "Mylekha Co.,LTD",
     description:
       "i working verify hard at Mylekha. and learn a lot from that warming work place.",
     icon: React.createElement(CgWorkAlt),
-    date: "2018",
-  },
-  {
-    title: "Graduated Computer Scients",
-    location: "CUS, Phnom Penh",
-    description:
-      "I graduated after 4 years of studying. I immediately found a job as a junior developer.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2020",
-  },
-  {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
-    description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
-  },
-  {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
-    description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2021 - present",
-  },
+    date: "2018 - 2020",
+  }
 ] as const;
 
 export const projectsData = [
