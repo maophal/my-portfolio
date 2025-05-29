@@ -5,6 +5,14 @@ import AAndP from "@/public/my-project/a-and-p.png";
 import DGT   from "@/public/my-project/dgt.png"
 import AirTimes from "@/public/my-project/airtimes.png";
 import PAAIS from "@/public/my-project/paais.png";
+import PANACEACOIN from "@/public/my-project/panacea-wallet.jpg";
+import HANCOOKFOOD from "@/public/my-project/hancook.png";
+import k24Hlottery from "@/public/my-project/k24h-lottery.png";
+import k24HlotterySystem from "@/public/my-project/k24h-lottery-sytem.png";
+import DIGIPOS from "@/public/my-project/digi-pos-cloud.png";
+import YUANTA from "@/public/my-project/yuanta.png";
+import BaitongHotel from "@/public/my-project/baitonghotel.png";
+import DANBUILD from "@/public/my-project/danbuild.png";
 export const links = [
   {
     name: "Home",
@@ -69,24 +77,24 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Sky Angkor Air",
+    title: "Sky Angkor Airlines",
     description:
       "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+    tags: ["HTML", "CSS", "PHP", "Mysql"],
     imageUrl: SkyAngkor,
   },
   {
     title: "A&P Accounting",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "I worked as a full-stack developer on this A&P Accounting project",
+    tags:  ["HTML", "CSS", "PHP", "Mysql"],
     imageUrl: AAndP,
   },
   {
     title: "គ្រូបង្រៀនឌីជីថល",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+    tags: ["Reactjs", "Laravel", "Mysql", "Tailwind", "Socket.io"],
     imageUrl: DGT,
   },
     {
@@ -108,38 +116,38 @@ export const projectsData = [
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: PANACEACOIN,
   },
     {
     title: "Hancook Food",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: HANCOOKFOOD,
   },
     {
-    title: "គ្រូបង្រៀនឌីជីថល",
+    title: "K24h Lottery",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: k24Hlottery,
   },
     {
-    title: "គ្រូបង្រៀនឌីជីថល",
+    title: "K24h Lottery System",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: k24HlotterySystem,
   },
     {
-    title: "គ្រូបង្រៀនឌីជីថល",
+    title: "Dan's Build",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: DANBUILD,
   },
     {
-    title: "Slot game",
+    title: "Slot Machine Provider System",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
@@ -153,25 +161,25 @@ export const projectsData = [
     imageUrl: DGT,
   },
     {
-    title: "Digi POS Cloud system",
+    title: "Digi POS Cloud Saas solution",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: DIGIPOS,
   },
-    {
-    title: "K24h",
+  {
+    title: "Yuanta Securities (Cambodia) Plc.",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: YUANTA,
   },
-    {
+  {
     title: "Batong Hotel",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: DGT,
+    imageUrl: BaitongHotel,
   },
 ] as const;
 
@@ -194,8 +202,17 @@ export const skillsData = [
   "MongoDB",
   "GraphQL",
   "Laravel",
-  "Express",
   "PostgreSQL",
   "Bootstrap",
   "Nestjs",
+  "Socket.io",
+  "Radis Cache",
+  "Codeigniter",
+  "ubuntu",
+  "Linux",
+  "Cloudflare",
+  "cloudinary",
+  "Cloud Hosting",
+  "Master WHM and Cpanel"
+  
 ] as const;
