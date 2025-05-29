@@ -14,6 +14,9 @@ import * as meImage from "../public/me.jpg"
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
   const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
+  const experienceYearCalculator = () => {
+    return new Date().getFullYear() - 2018; // Assuming you started in 2018
+  }
 
   return (
     <section
@@ -65,9 +68,9 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Phal.</span> I'm a{" "}
         <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">6 years</span> of experience. I enjoy
+        <span className="font-bold">{experienceYearCalculator()}</span> of experience. I enjoy
         building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js), Nestjs and Laravel 9</span>.
+        <span className="underline">React (Next.js), Nestjs,Nodejs and Laravel 9</span>.
       </motion.h1>
 
       <motion.div
