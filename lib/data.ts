@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Senior Full-Stack Developer",
     location: "Melose Co.,LTD",
     description:
-      "i working verify hard at Mylekha. and learn a lot from that warming work place.",
+      "i working verify hard at Melose. and learn a lot from that warming work place.",
     icon: React.createElement(CgWorkAlt),
     date: "2022 - present",
   },
@@ -59,11 +59,19 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "2020 - 2022",
   },
-    {
+  {
     title: "Junior Web Developer",
     location: "Mylekha Co.,LTD",
     description:
-      "i working verify hard at Mylekha. and learn a lot from that warming work place.",
+      "i working as Junior web developer at Mylekha. and learn a lot from that warming work place.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2018 - 2020",
+  },
+    {
+    title: "Inership Web Developer",
+    location: "NTL Technology",
+    description:
+      "i working  as front-end developer at NTL Technology. and learn a lot from that warming work place.",
     icon: React.createElement(CgWorkAlt),
     date: "2018 - 2020",
   }
