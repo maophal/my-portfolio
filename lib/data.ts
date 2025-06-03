@@ -15,6 +15,7 @@ import BaitongHotel from "@/public/my-project/baitonghotel.png";
 import DANBUILD from "@/public/my-project/danbuild.png";
 import UK24trading from "@/public/my-project/uk24.jpg";
 import SlotGame from "@/public/my-project/slot_game.jpg";
+import PANACEACOINEXPORER from "@/public/my-project/panacea-explorer.jpg";
 export const links = [
   {
     name: "Home",
@@ -119,6 +120,13 @@ export const projectsData = [
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["Nodejs", "Reactjs", "Mysql", "Tailwind"],
     imageUrl: PANACEACOIN,
+  },
+    {
+    title: "Panacea Exporer",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["Nodejs", "Reactjs", "Mysql", "Tailwind"],
+    imageUrl: PANACEACOINEXPORER,
   },
     {
     title: "Hancook Food",
